@@ -1,0 +1,796 @@
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-09-29T18:16:24.667Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-09-29T18:16:24.693Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-06T13:21:55.494Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-06T13:21:55.647Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-06T13:43:35.656Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-06T13:43:35.673Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-06T13:45:57.804Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-06T13:45:57.830Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-06T13:47:48.229Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-06T13:47:48.245Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-06T13:50:00.105Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-06T13:50:00.122Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-06T13:52:55.448Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-06T13:52:55.463Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-06T15:18:23.038Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-06T15:18:23.054Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-06T15:39:13.504Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-06T15:39:13.527Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-06T15:44:21.209Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-06T15:44:21.230Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-06T16:50:45.705Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-06T16:50:45.727Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T04:10:05.274Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T04:10:05.308Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T04:32:44.941Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T04:32:44.964Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T05:08:58.930Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T05:08:58.955Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T05:10:15.942Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T05:10:15.969Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T05:21:52.139Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T05:21:52.171Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T05:22:11.998Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T05:22:12.017Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T05:26:38.423Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T05:26:38.441Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T05:57:55.102Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T05:57:55.120Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T06:01:35.960Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T06:01:35.976Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T06:03:15.212Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T06:03:15.228Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T06:08:22.032Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T06:08:22.049Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T08:08:16.658Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T08:08:16.681Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T08:15:44.952Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T08:15:44.969Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T08:16:29.618Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T08:16:29.633Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T08:22:12.266Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T08:22:12.280Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T08:25:31.989Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T08:25:32.007Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T08:36:56.774Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T08:36:56.793Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T08:51:25.042Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T08:51:25.058Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T09:22:17.566Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T09:22:17.582Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-07T09:25:47.454Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-07T09:25:47.473Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T06:01:05.897Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T06:01:05.919Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T06:32:26.456Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T06:32:26.471Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T06:33:55.608Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T06:33:55.622Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T06:34:36.098Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T06:34:36.114Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T06:36:34.707Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T06:36:34.727Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T06:39:18.539Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T06:39:18.561Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T06:40:17.158Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T06:40:17.180Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T06:57:51.949Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T06:57:51.973Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T07:11:01.334Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T07:11:01.360Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T07:11:39.424Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T07:11:39.439Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T07:11:49.482Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T07:11:49.503Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T07:13:51.202Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T07:13:51.223Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T07:29:40.184Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T07:29:40.205Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T07:29:50.750Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T07:29:50.778Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T07:34:26.749Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T07:34:26.764Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T07:36:18.073Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T07:36:18.103Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T07:42:01.357Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T07:42:01.374Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T07:47:40.497Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T07:47:40.519Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T09:18:22.375Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T09:18:22.405Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T14:27:01.841Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T14:27:01.856Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T14:31:50.335Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T14:31:50.352Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T14:42:52.563Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T14:42:52.579Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T14:53:23.376Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T14:53:23.392Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T15:47:38.974Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T15:47:38.989Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T16:22:11.385Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T16:22:11.399Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T16:23:16.481Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T16:23:16.498Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T16:24:20.022Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T16:24:20.043Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T16:27:51.118Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T16:27:51.136Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T16:39:32.219Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T16:39:32.235Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T16:43:58.130Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T16:43:58.144Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T17:05:00.172Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T17:05:00.188Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T17:12:50.218Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T17:12:50.232Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T17:14:18.081Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T17:14:18.097Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T17:16:21.546Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T17:16:21.560Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T17:19:51.449Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T17:19:51.464Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T17:25:07.221Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T17:25:07.248Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T17:37:18.508Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T17:37:18.523Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T18:11:25.986Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T18:11:26.003Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-09T18:25:27.031Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-09T18:25:27.053Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T06:31:18.666Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T06:31:18.705Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T09:02:13.964Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T09:02:14.090Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T09:09:24.550Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T09:09:24.566Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T11:00:15.182Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T11:00:15.202Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T12:39:21.387Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T12:39:21.405Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T12:45:37.910Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T12:45:37.943Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T12:47:54.798Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T12:47:54.833Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T12:54:47.962Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T12:54:47.978Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T13:18:31.946Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T13:18:31.959Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T13:22:19.196Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T13:22:19.209Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T13:39:22.692Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T13:39:22.706Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T15:28:12.747Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T15:28:12.780Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T18:22:30.462Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T18:22:30.498Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T18:25:33.451Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T18:25:33.468Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-10T18:30:38.105Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-10T18:30:38.120Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T04:42:30.311Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T04:42:30.325Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T04:47:10.146Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T04:47:10.163Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T05:16:06.603Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T05:16:06.621Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T05:44:12.857Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T05:44:12.878Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T05:45:25.211Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T05:45:25.235Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T06:59:08.660Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T06:59:08.719Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T07:08:27.777Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T07:08:27.805Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T07:37:31.411Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T07:37:31.435Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T07:44:10.491Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T07:44:10.633Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T07:49:50.633Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T07:49:50.648Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T07:53:31.847Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T07:53:31.861Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T07:55:29.871Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T07:55:29.886Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T08:01:31.876Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T08:01:31.890Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T08:05:53.791Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T08:05:53.804Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T08:08:57.372Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T08:08:57.388Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T08:09:40.824Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T08:09:40.837Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T12:47:12.602Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T12:47:12.620Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T12:52:57.647Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T12:52:57.663Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T12:59:40.819Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T12:59:40.832Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T13:11:18.756Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T13:11:18.771Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T13:11:39.088Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T13:11:39.101Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T13:13:19.512Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T13:13:19.528Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T13:13:24.575Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T13:13:24.590Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T13:13:36.109Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T13:13:36.319Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T13:48:10.521Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T13:48:10.636Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T13:48:27.577Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T13:48:27.614Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T13:48:39.071Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T13:48:39.089Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T13:55:10.097Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T13:55:10.112Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:00:35.729Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:00:35.742Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:06:42.186Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:06:42.206Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:10:11.248Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:10:11.281Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:13:43.371Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:13:43.395Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:15:06.508Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:15:06.535Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:25:46.420Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:25:46.442Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:30:57.290Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:30:57.312Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:31:29.716Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:31:29.755Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:33:53.208Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:33:53.232Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:35:50.828Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:35:50.851Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:42:12.930Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:42:12.954Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:49:58.590Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:49:58.618Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:51:12.932Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:51:12.963Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T14:51:57.195Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T14:51:57.218Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-11T16:35:15.607Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-11T16:35:15.628Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T07:01:07.016Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T07:01:07.032Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T07:01:38.399Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T07:01:38.415Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T07:02:19.026Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T07:02:19.041Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T07:04:16.584Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T07:04:16.600Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T07:05:11.983Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T07:05:11.999Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T07:12:20.874Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T07:12:20.894Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T07:36:27.841Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T07:36:27.864Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T08:49:35.276Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T08:49:35.289Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T08:50:18.631Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T08:50:18.644Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T08:55:16.099Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T08:55:16.117Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T08:57:07.616Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T08:57:07.632Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:02:41.589Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:02:41.607Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:13:36.508Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:13:36.526Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:21:33.924Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:21:33.948Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:25:53.142Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:25:53.159Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:29:51.410Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:29:51.428Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:34:18.091Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:34:18.104Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:42:01.169Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:42:01.183Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:44:54.881Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:44:54.897Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:45:33.402Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:45:33.417Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:45:43.895Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:45:43.911Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:46:20.034Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:46:20.048Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:46:44.107Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:46:44.139Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T09:47:13.232Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T09:47:13.247Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T10:30:19.102Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T10:30:19.117Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T11:57:41.204Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T11:57:41.218Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T12:08:49.975Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T12:08:50.044Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T12:11:23.041Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T12:11:23.096Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T12:11:42.742Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T12:11:42.798Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T12:12:58.261Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T12:12:58.324Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T12:18:45.898Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T12:18:45.958Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-12T12:20:40.493Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-12T12:20:40.572Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-13T04:54:55.068Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-13T04:54:55.091Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-13T04:55:12.110Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-13T04:55:12.173Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-13T14:19:37.561Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-13T14:19:37.579Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-13T14:26:21.013Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-13T14:26:21.028Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-13T14:34:42.128Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-13T14:34:42.152Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-13T14:42:07.546Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-13T14:42:07.560Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-14T05:25:09.701Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-14T05:25:09.715Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-14T05:31:46.382Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-14T05:31:46.398Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-14T05:32:49.318Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-14T05:32:49.334Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-14T05:47:02.287Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-14T05:47:03.165Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-14T05:51:12.145Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-14T05:51:12.161Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-14T05:52:05.731Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-14T05:52:05.748Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-14T05:59:20.971Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-14T05:59:20.995Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-14T05:59:28.100Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-14T05:59:28.117Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-14T08:23:12.329Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-14T08:23:12.516Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T07:54:48.805Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T07:54:48.827Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T08:14:39.392Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T08:14:39.411Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T08:16:40.132Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T08:16:40.148Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T08:32:35.488Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T08:32:35.504Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T08:43:00.977Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T08:43:01.010Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T08:49:55.117Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T08:49:55.130Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T08:54:55.494Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T08:54:55.510Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T09:33:43.415Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T09:33:43.428Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T09:38:25.362Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T09:38:25.390Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T09:41:56.881Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T09:41:56.894Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T09:51:37.210Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T09:51:37.231Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T10:00:29.712Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T10:00:29.739Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T10:06:36.518Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T10:06:36.531Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T10:21:06.594Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T10:21:06.611Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T10:32:43.180Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T10:32:43.196Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T10:45:40.134Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T10:45:40.150Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T10:58:31.165Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T10:58:31.179Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T12:33:04.027Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T12:33:04.056Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T12:51:42.963Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T12:51:42.977Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T13:07:50.378Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T13:07:50.391Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T14:32:16.775Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T14:32:16.827Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T14:39:28.640Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T14:39:28.662Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T14:54:38.266Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T14:54:38.339Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T15:01:57.288Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T15:01:57.303Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T15:06:13.337Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T15:06:13.353Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T15:12:43.632Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T15:12:43.645Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T15:17:28.187Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T15:17:28.202Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T15:34:09.308Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T15:34:09.444Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T15:36:04.172Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T15:36:04.187Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T15:38:26.339Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T15:38:26.354Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T15:38:43.194Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T15:38:43.209Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T15:55:00.269Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T15:55:00.283Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T16:01:20.610Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T16:01:20.635Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T16:09:18.526Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T16:09:18.540Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T16:12:43.426Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T16:12:43.455Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T16:18:50.585Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T16:18:50.602Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T16:34:30.185Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T16:34:30.200Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T16:39:18.479Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T16:39:18.497Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T16:41:57.025Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T16:41:57.043Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T16:44:00.113Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T16:44:00.136Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T16:48:09.621Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T16:48:09.638Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T17:23:45.051Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T17:23:45.069Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T17:26:01.083Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T17:26:01.100Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T17:32:36.038Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T17:32:36.052Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T17:37:05.271Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T17:37:05.285Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T17:37:36.140Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T17:37:36.154Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T17:44:41.011Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T17:44:41.027Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T18:11:00.907Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T18:11:00.921Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T18:16:46.850Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T18:16:46.865Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T18:17:17.615Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T18:17:17.628Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T18:19:21.363Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T18:19:21.379Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-15T18:20:21.991Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-15T18:20:22.085Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T10:06:03.191Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T10:06:03.206Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T10:13:26.269Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T10:13:26.286Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T10:15:17.358Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T10:15:17.371Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T10:17:37.656Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T10:17:37.670Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T10:19:15.852Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T10:19:15.868Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T10:23:06.367Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T10:23:06.389Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T10:23:30.964Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T10:23:30.978Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T10:24:49.109Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T10:24:49.124Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T10:31:23.982Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T10:31:23.998Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T10:32:01.854Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T10:32:01.870Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T11:09:54.305Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T11:09:54.334Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T11:14:41.693Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T11:14:41.708Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T11:22:53.886Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T11:22:53.900Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T11:44:23.536Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T11:44:23.552Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T11:53:29.623Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T11:53:29.651Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T11:55:31.924Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T11:55:31.941Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T12:18:08.803Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T12:18:08.817Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T12:20:55.546Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T12:20:55.560Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T12:34:07.624Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T12:34:07.644Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T12:35:02.370Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T12:35:02.387Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T12:38:27.115Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T12:38:27.130Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T12:41:42.821Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T12:41:42.844Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T12:47:27.811Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T12:47:27.833Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T12:48:01.623Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T12:48:01.641Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T12:49:42.890Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T12:49:42.908Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T12:57:50.324Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T12:57:50.345Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:02:46.044Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:02:46.066Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:04:00.399Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:04:00.416Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:08:14.784Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:08:14.803Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:10:00.383Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:10:00.403Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:11:37.372Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:11:37.389Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:16:05.518Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:16:05.543Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:17:54.010Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:17:54.024Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:19:50.477Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:19:50.490Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:34:46.075Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:34:46.091Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:37:32.457Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:37:32.470Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:38:23.258Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:38:23.276Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:46:08.721Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:46:08.754Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T13:47:39.646Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T13:47:39.666Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T14:13:48.913Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T14:13:48.950Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T14:16:12.124Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T14:16:12.157Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T14:16:50.506Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T14:16:50.525Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T14:23:58.428Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T14:23:58.442Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T14:28:11.042Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T14:28:11.056Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T14:32:17.338Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T14:32:17.358Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T14:46:30.883Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T14:46:30.901Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T14:58:11.730Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T14:58:11.748Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T14:59:23.998Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T14:59:24.016Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:00:28.742Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:00:28.757Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:01:25.213Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:01:25.226Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:02:39.838Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:02:39.853Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:03:10.450Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:03:10.468Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:04:20.085Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:04:20.099Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:05:25.352Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:05:25.365Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:06:40.241Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:06:40.257Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:07:45.792Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:07:45.806Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:09:17.846Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:09:17.859Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:20:19.738Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:20:19.755Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:22:47.820Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:22:47.835Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:25:14.981Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:25:14.996Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:29:40.991Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:29:41.006Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:31:30.660Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:31:30.675Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:35:18.536Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:35:18.549Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:36:21.848Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:36:21.863Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-18T15:41:39.755Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-18T15:41:39.768Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T08:17:04.069Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T08:17:04.096Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T08:57:50.660Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T08:57:50.675Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T09:32:19.258Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T09:32:19.274Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T09:59:03.299Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T09:59:03.316Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:04:01.428Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:04:01.445Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:23:53.624Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:23:53.641Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:27:24.977Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:27:24.995Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:33:01.986Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:33:02.003Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:33:25.244Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:33:25.260Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:34:29.865Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:34:29.880Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:36:24.740Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:36:24.768Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:37:28.640Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:37:28.657Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:41:07.607Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:41:07.622Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:41:10.220Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:41:10.242Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T10:48:58.593Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T10:48:58.609Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T11:11:44.721Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T11:11:44.738Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T11:32:33.943Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T11:32:33.977Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T11:41:37.661Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T11:41:37.689Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T11:43:56.810Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T11:43:56.891Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T11:47:11.571Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T11:47:11.596Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T11:56:54.701Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T11:56:54.731Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T11:57:30.707Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T11:57:30.741Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T12:00:52.912Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T12:00:52.937Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T12:02:57.820Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T12:02:57.848Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T12:04:37.174Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T12:04:37.202Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T12:08:34.669Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T12:08:34.685Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T12:13:19.302Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T12:13:19.318Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T12:18:41.256Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T12:18:41.272Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T12:20:24.775Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T12:20:24.793Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T12:41:10.137Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T12:41:10.154Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T12:55:47.999Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T12:55:48.020Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T13:03:31.924Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T13:03:31.940Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T13:28:16.015Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T13:28:16.032Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T13:32:32.767Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T13:32:32.787Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T13:37:08.571Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T13:37:08.586Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T13:40:51.302Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T13:40:51.321Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T14:15:56.555Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T14:15:56.573Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T14:35:54.950Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T14:35:54.968Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T14:42:06.650Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T14:42:06.669Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T14:44:45.838Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T14:44:45.860Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T14:46:29.711Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T14:46:29.737Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T14:48:42.367Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T14:48:42.386Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T14:51:03.820Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T14:51:03.838Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T14:59:41.821Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T14:59:41.836Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:01:29.876Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:01:29.892Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:03:45.937Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:03:45.955Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:05:17.579Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:05:17.599Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:14:08.438Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:14:08.454Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:17:01.183Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:17:01.202Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:18:01.738Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:18:01.752Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:20:22.400Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:20:22.415Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:21:31.180Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:21:31.205Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:32:34.536Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:32:34.560Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:36:55.791Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:36:55.807Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:41:51.494Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:41:51.517Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:42:22.328Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:42:22.349Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:42:54.814Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:42:54.829Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:43:43.166Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:43:43.183Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:45:01.692Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:45:01.709Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:52:08.553Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:52:08.568Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T15:57:12.004Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T15:57:12.020Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:02:40.803Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:02:40.818Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:09:44.757Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:09:44.773Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:16:23.941Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:16:23.958Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:16:59.337Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:16:59.356Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:18:50.894Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:18:50.909Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:21:14.684Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:21:14.701Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:21:42.305Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:21:42.319Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:23:27.615Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:23:27.630Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:40:58.536Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:40:58.562Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:41:21.799Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:41:21.821Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:42:14.350Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:42:14.366Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:45:24.717Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:45:24.735Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:54:04.195Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:54:04.216Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T16:58:04.188Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T16:58:04.206Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T17:27:41.868Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T17:27:41.894Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T17:45:00.868Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T17:45:00.898Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-20T18:09:42.625Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-20T18:09:42.652Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T07:04:10.706Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T07:04:10.831Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T07:26:29.200Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T07:26:29.250Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T08:26:40.023Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T08:26:40.073Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T08:32:26.657Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T08:32:26.676Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T09:50:49.647Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T09:50:49.667Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T10:00:41.216Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T10:00:41.233Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T13:17:51.374Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T13:17:51.438Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T14:07:54.429Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T14:07:54.453Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T16:39:54.631Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T16:39:54.651Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T16:40:48.939Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T16:40:49.103Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T16:52:17.094Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T16:52:17.111Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T17:00:47.511Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T17:00:47.529Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T17:02:25.875Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T17:02:25.894Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T17:05:02.316Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T17:05:02.347Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T17:05:08.541Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T17:05:08.557Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T17:13:50.556Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T17:13:50.581Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T17:30:16.498Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T17:30:16.517Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T17:48:02.137Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T17:48:02.155Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T17:54:27.323Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T17:54:27.348Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T18:00:22.974Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T18:00:22.991Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T18:18:27.634Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T18:18:27.655Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T19:41:48.108Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T19:41:48.128Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T19:55:27.674Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T19:55:27.691Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T19:56:26.301Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T19:56:26.319Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T20:01:42.603Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T20:01:42.627Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T20:01:54.623Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T20:01:54.645Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T20:03:03.280Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T20:03:03.308Z"}
+{"level":"info","message":"Backend running on http://localhost:8800","timestamp":"2025-10-21T20:08:42.075Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-10-21T20:08:42.094Z"}
